@@ -28,7 +28,7 @@
 ## Overview
 
 <b>Screenshot:</b> 
-<img src="http://www.marvinrusinek.com/portfolio-projects/devchallenges-button-component.png" align="center">
+<img src="http://www.marvinrusinek.com/portfolio-projects/devchallenges-button-comp.png" align="center">
 
 - Live demo can be found here: https://devchallenges-button-component-two.vercel.app
 - The webpage was relatively easy to develop using Angular framework.
