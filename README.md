@@ -32,7 +32,7 @@
 
 - Live demo can be found here: https://devchallenges-button-component-two.vercel.app
 - The webpage was relatively easy to develop using Angular framework.
-- I used Angular 11, HTML5 and SCSS (CSS Grid) to create the webpage.
+- I used Angular 11, HTML5 and SCSS (CSS Grid/Flexbox) to create the webpage.
 
 ### Built With
 - Angular (https://www.angular.io/)
